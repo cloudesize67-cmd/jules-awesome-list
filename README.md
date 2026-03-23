@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jules-readme.png" alt="Jules Awesome List" width="600">
+  <img src="assets/jules-readme.webp" alt="Jules Awesome List" width="600">
 </p>
 
 <div align="center">
