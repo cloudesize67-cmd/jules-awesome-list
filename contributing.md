@@ -13,5 +13,6 @@ Thank you for considering contributing to **Awesome Jules Prompts**!
 - Use inline code formatting for prompt examples (`// like this`).
 - Group related prompts under the right heading.
 - Feel free to suggest new categories if needed.
+- Prefer prompts that avoid merge ambiguity and clearly target measurable outcomes (e.g., conflict resolution or performance bottlenecks).
 
 Let’s build this together!

@@ -58,6 +58,9 @@
 - `// Help me fix {a specific} error...`
   <sub>For any repo where you're stuck on a runtime or build error.</sub>
 
+- `// Resolve this merge conflict and preserve both branches' intent`
+  <sub>Useful when PRs diverge and you need a safe, conflict-free merge.</sub>
+
 - `// Why is {this specific snippet of code} slow?`
   <sub>Performance profiling for loops, functions, or queries.</sub>
 
@@ -141,6 +144,9 @@
 
 - `// Analyze this repo and generate 3 feature ideas`
   <sub>Vision-stage or greenfield products.</sub>
+
+- `// Scan this repo for performance anti-patterns and list the top 5 efficiency issues`
+  <sub>Helpful for finding repeated queries, unnecessary loops, and expensive sync work.</sub>
 
 - `// Identify tech debt in this file`
   <sub>Codebases with messy or fragile logic.</sub>
