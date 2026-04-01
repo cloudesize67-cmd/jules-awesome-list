@@ -58,7 +58,7 @@
 - `// Help me fix {a specific} error...`
   <sub>For any repo where you're stuck on a runtime or build error.</sub>
 
-- `// Resolve this merge conflict and preserve both branches' intent`
+- `// Resolve this merge conflict in {file or section} and preserve both branches' intent`
   <sub>Useful when PRs diverge and you need a safe, conflict-free merge.</sub>
 
 - `// Why is {this specific snippet of code} slow?`
