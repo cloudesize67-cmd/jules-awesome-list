@@ -51,6 +51,9 @@
 - `// Implement a data class for this dictionary structure...`
   <sub>Useful for Python projects moving towards more structured data handling with `dataclasses` or Pydantic.</sub>
 
+- `// Add error handling and input validation to {a specific} function...`
+  <sub>Improves robustness and reliability of any codebase by catching edge cases early.</sub>
+
 
 
 ## Debugging
