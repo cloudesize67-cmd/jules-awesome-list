@@ -14,7 +14,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Everyday Dev Tasks](#everyday-dev-tasks)
 - [Debugging](#debugging)
 - [Documentation](#documentation)
@@ -67,14 +66,11 @@
 - `// Diagnose this memory leak...`
   <sub>Server-side apps or long-running processes.</sub>
 
-- `// Add logging to help debug this issue...`
-  <sub>Useful when troubleshooting silent failures.</sub>
+- `// Add logging or print statements to help debug this issue...`
+  <sub>Useful when troubleshooting silent failures or tracing execution flow.</sub>
 
 - `// Find race conditions in this async code`
   <sub>Concurrent systems in JS, Python, Go, etc.</sub>
-
-- `// Add print statements to trace the execution flow of this Python script...`
-  <sub>For debugging complex Python scripts or understanding unexpected behavior.</sub>
 
 
 ## Documentation
@@ -216,4 +212,4 @@
 Your contributions are welcome! Add new prompts, fix formatting, or suggest categories.
 
 - 📄 [Contributing Guide](contributing.md)
-- 🪄 Open a [Pull Request](https://github.com/YOUR_REPO/pulls)
+- 🪄 Open a [Pull Request](https://github.com/cloudesize67-cmd/jules-awesome-list/pulls)
